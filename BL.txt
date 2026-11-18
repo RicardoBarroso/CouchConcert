@@ -1,0 +1,51 @@
+Product Backlog: CouchConcert (Streaming Musical Interativo)
+Épico 1: Streaming e Catálogo de Música On-Demand
+Objetivo: Permitir que os utilizadores descubram, oiçam e avaliem músicas e artistas independentemente da realização de concertos em direto.
+
+US1.01: Catálogo de Músicas e Artistas
+
+Como utilizador, quero navegar por um catálogo de músicas e artistas, para descobrir novos conteúdos e aceder a streaming on-demand.
+
+Critérios de Aceitação: Listagem de artistas e álbuns/músicas, player básico de streaming de áudio on-demand funcional.
+
+US1.02: Reprodução de Músicas On-Demand
+
+Como utilizador, quero reproduzir músicas a partir do catálogo a qualquer momento, para desfrutar de audições fora dos horários de concertos ao vivo.
+
+Critérios de Aceitação: Controles de reprodução (play, pause, skip, barra de progresso) operacionais na web/app.
+
+US1.03: Avaliação de Músicas
+
+Como utilizador, quero avaliar as músicas disponíveis (ex: de 1 a 5 estrelas ou gosto/não gosto), para registar a minha preferência e influenciar a popularidade.
+
+Critérios de Aceitação: Registo da avaliação por utilizador, cálculo e exibição da avaliação média de cada música no catálogo.
+
+Épico 2: Concertos em Direto (Live Streaming e Interação)
+Objetivo: Proporcionar transmissões ao vivo de alta qualidade e ferramentas de participação em tempo real entre o público e os músicos.
+
+US2.01: Transmissão de Concertos ao Vivo (Live Streaming)
+
+Como espectador, quero assistir a concertos transmitidos em direto através da plataforma, para vivenciar a experiência do espetáculo em tempo real.
+
+Critérios de Aceitação: Visualizador de vídeo em live streaming otimizado para baixa latência.
+
+US2.02: Interação em Tempo Real (Chat e Reações)
+
+Como espectador, quero comunicar através de chat e enviar reações visuais durante o concerto, para interagir com os músicos e outros fãs.
+
+Critérios de Aceitação: Janela de chat em tempo real sincronizada com a transmissão e painel de reações rápidas (emojis/likes).
+
+Épico 3: Envolvimento Dinâmico e "Encore"
+Objetivo: Reduzir a distância entre artistas e audiência permitindo votações e pedidos de encore no final.
+
+US3.01: Votação de Músicas Durante o Concerto
+
+Como espectador, quero votar em músicas que pretendo ouvir a seguir durante o concerto, para influenciar o alinhamento em direto dos músicos.
+
+Critérios de Aceitação: Painel de votação ativo na interface de transmissão, contagem de votos em tempo real visível para o artista/gestor de palco.
+
+US3.02: Pedido de Encore (Mais uma Música)
+
+Como espectador, quero solicitar um encore (mais uma música) no final do concerto, para demonstrar o entusiasmo e o interesse coletivo da audiência.
+
+Critérios de Aceitação: Botão de pedido de encore que se ativa na reta final do concerto e indicador visual de nível de pedido para os músicos.
