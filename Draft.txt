@@ -1,0 +1,6 @@
+Plataforma de Streaming, com repo no GitHub.
+1. Funcionalidade de "live stream concert".
+   1.1 Interação com os músicos.
+   1.2 Os utilizadores pedirem mais uma musica.
+2. Streaming de musicas.
+3. Rating de musicas.
